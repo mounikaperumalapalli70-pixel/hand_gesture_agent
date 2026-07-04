@@ -53,14 +53,6 @@ Run the project:
 python app.py
 ```
 
-## 🎥 Demo
-
-(Add your demo video or GIF here after uploading it.)
-
-## 📸 Screenshots
-
-(Add screenshots here.)
-
 ## 👨‍💻 Author
 
 **P.Mounika**
