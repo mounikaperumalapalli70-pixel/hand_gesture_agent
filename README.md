@@ -1,5 +1,7 @@
 # 😺 AI Hand Gesture Meme Camera
 
+A real-time Computer Vision project built using **Python**, **OpenCV**, and **MediaPipe** that detects hand gestures and displays matching meme reactions.# 😺 AI Hand Gesture Meme Camera
+
 A fun real-time Computer Vision project that detects hand gestures using a webcam and displays matching cat memes.
 
 ## 🚀 Features
